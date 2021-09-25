@@ -29,10 +29,13 @@
 3.卷积神经网络实现自然语言处理及计算机视觉
 
 ### 专业能力
-1.Python PyQt5图形用户界面编程，基于Numpy，Pandas，Matplotlib库的收据分析
-2.Java Swing图形用户界面
-3.基于Azure等云平台的机器学习实践
-4.C#基础
+1.Python PyQt5图形用户界面编程，基于Numpy，Pandas，Matplotlib库的收据分析  
+2.Java Swing图形用户界面  
+3.基于Azure等云平台的机器学习实践  
+4.C#基础  
+5.C++编程  
+6.雅思首考6分
+
 ### 荣誉奖励
  1.MIT Base SPOC项目以110分的成绩完成项目拿到证书，获得1800美元奖学金及东北大学补助
  2.完成微软技术岗（研究助理岗）实习获得推荐信
