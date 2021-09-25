@@ -8,7 +8,7 @@
       <p><b>地址：沈阳市浑南区创新路195号东北大学 邮编110167</b></p>
     </td>
     <td width="25%">
-      <img src="/zyx.JPG" width="100%">      
+      <img src="/zyx.jpeg" width="100%">      
     </td>
   </tr>
 </table>
