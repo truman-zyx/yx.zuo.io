@@ -27,7 +27,8 @@
 ### 研究方向
 1.软件工程及开发  
 2.遗传程序设计结合拓扑数据分析（GP+TDA）实现结构化数据分析  
-3.卷积神经网络实现自然语言处理及计算机视觉
+3.卷积神经网络实现自然语言处理及计算机视觉  
+4.NLP方向
 
 ### 专业能力
 1.Python PyQt5图形用户界面编程，基于Numpy，Pandas，Matplotlib库的收据分析等  
@@ -46,6 +47,7 @@
 3.MIT “AI+X” Blended Learning Convolutional Neural Networks for Computer Vision & Natural Language Processing - Google Project用于计算机视觉和自然语言处理的卷积神经网络-谷歌项目  
 4.微软技术岗（研究助理岗）实习，人脸识别方向驾驶员面部识别及状态监测项目  
 5.东北大学唐立新院士带头的DAO实验室的遗传程序设计结合拓扑数据分析（GP+TDA）实现结构化数据分析项目  
+6.利用TAPAS进行文本表格数据的多模态训练，参考GraphFormer进行模型设计，进一步实现多模态的检索和开放域问答
 
 
 
