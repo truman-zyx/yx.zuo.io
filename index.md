@@ -14,7 +14,7 @@
   </tr>
 </table>
 
-[English Pages](https://truman-zyx.github.io/yx.zuo.en.io/)  
+[English Page](https://truman-zyx.github.io/yx.zuo.en.io/)  
 
 ### 个人信息
 大一学年绩点3.9047，转专业至软件工程专业，综测绩点均为年级前百分之十，大学英语免修免考，大一学年累计获得奖学金五位数，具有多次软件开发及机器学习项目经历。
