@@ -32,7 +32,8 @@
 2.微软技术岗（研究助理岗）实习推荐信  
 3.东北大学优秀学生  
 4.周鲸文奖学金  
-5.校二等奖学金
+5.校二等奖学金  
+6.微软学生大使
  
 ### 项目研究
 1.MIT “AI+X” Blended Learning Base SPOC Machine Learning, Modeling, and Simulation Principles 机器学习、建模和模拟原理  
