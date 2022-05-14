@@ -17,13 +17,13 @@
 [English Page](https://truman-zyx.github.io/yx.zuo.en.io/)  
 
 ### 个人信息
-大一学年绩点3.9047，转专业至软件工程专业，综测绩点均为年级前百分之十，大学英语免修免考，大一学年累计获得奖学金超过20000元，具有丰富软件开发及深度学习项目经历。
+大一学年综测绩点Top3，转专业至软件工程专业，大学英语免修免考，大一学年累计获得奖学金超过20000元，具有丰富软件开发及深度学习项目经历。
 
 ### 专业能力
 1.基于pytorch, transformers, errant, fairseq等库的NLP研究和深度学习研究;  
 2.基于Numpy，Pandas，Matplotlib等库的数据分析及数据可视化;  
 3.基于sklearn，xgboost等库的机器学习;  
-4.软件开发: 例如Java Swing图形用户界面;Python PyQt5图形用户界面;Andriod开发;多线程，IO等技术使用;
+4.软件开发: 例如Java Swing图形用户界面;Python PyQt5图形用户界面;Andriod开发;多线程，IO等技术使用;  
 5.数学建模: 运用Matlab+Python以及相关算法和模型知识;  
 6.基于Azure等云平台的机器学习，完成调用人脸库进行人脸识别及情绪分析，面部数据提取等;  
 7.雅思首考6分，英文文献阅读及论文写作基础;  
